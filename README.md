@@ -1,4 +1,4 @@
-# Hi there, I’m Jett Nicolette 👋
+# Hi, I’m Jett Nicolette 👋
 
 I’m a rising junior pursuing a B.S. in Computer Science at West Virginia University. I specialize in:
 
