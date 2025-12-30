@@ -1,4 +1,4 @@
-# Hi, I’m Jett Nicolette 👋
+# Hi, I’m Jett Nicolette
 
 I’m a rising junior pursuing a B.S. in Computer Science at West Virginia University. I specialize in:
 
@@ -25,7 +25,7 @@ A team capstone built during the school year: a full-stack web application that 
 
 - **Frontend:** Next.js · React · Tailwind CSS  
 - **Backend:** Python · Flask · SQLite  
-- **Languages:** Java · Python · JavaScript  
+- **Languages:** Java · Python · JavaScript · Learning Typescript and Rust  
 
 ---
 
