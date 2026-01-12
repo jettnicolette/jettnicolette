@@ -3,7 +3,7 @@
 I’m a rising junior pursuing a B.S. in Computer Science at West Virginia University. I specialize in:
 
 - **Embedded & IoT**  
-  Raspberry Pi · Sensors · Automated plant-care systems  
+  Raspberry Pi · Sensors · Automated plant-care systems · I2C & SPI  
 - **Full-Stack Web Development**  
   Next.js · React · Tailwind CSS · Flask · SQLite  
 - **Java**  
